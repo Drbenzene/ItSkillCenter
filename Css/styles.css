@@ -1,0 +1,30 @@
+body {
+    padding-left: 80px;
+    padding-right: 80px
+}
+.card-deck {
+    text-align: center;
+
+}
+#header {
+    text-align: center;
+    padding-top: 70px;
+}
+
+img {
+    justify-self: center;
+}
+.card-title {
+    display: inline;
+}
+.images {
+    height: 400px;
+    width: 400px
+}
+.niche{
+    background: darkslategrey
+}
+.niche-text {
+    text-align: left;
+    align-items: left;
+}
